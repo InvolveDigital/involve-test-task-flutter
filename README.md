@@ -18,3 +18,5 @@ After the user submits the form, a second api call is made with a `status` in th
 Save the `user_id` and `full_name` in Get state and reuse it in the last screen.
 
 Use this repository to get started. It provides a few things you can reuse for this task, however, it seems like that there are some small bugs.
+
+Submit your result for review to simon@involve.co.th once you are done.
